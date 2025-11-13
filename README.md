@@ -1,5 +1,6 @@
 # ITGO
 Official implementation of *ITGO: A General Framework for Text-Guided Image Outpainting.*
+![img](assets/Method_Overall.png)
 # Dependencies and Installation
 
 ```shell
